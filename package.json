@@ -52,7 +52,7 @@
     "vail": "^1.0.3",
     "vite": "^6.3.3",
     "vite-plugin-html": "^3.2.2",
-    "vite-plugin-pwa": "^0.21.1"
+    "vite-plugin-pwa": "^1.2.0"
   },
   "keywords": [
     "git-profile",
