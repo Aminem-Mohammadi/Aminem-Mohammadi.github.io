@@ -335,12 +335,13 @@ const CONFIG = {
       authors: '',
       link: '',
       description:
-        `I am <strong>Amin M. (Aminem) Mohammadi</strong>, a biomedical engineer passionate about the interface between the brain and machines. I earned my B.Sc. and M.Sc. degrees from the University of Tehran, where I specialized in EEG–fMRI integration, biomedical image and signal processing, and artificial intelligence. I graduated at the top of my class with a perfect GPA and received several national honors.<br/>
+        `I am <strong>Amin M. Mohammadi</strong>, a biomedical engineer working at the intersection of neuroimaging, biomedical signal processing, and AI applications in biomedical data analysis. I received my B.Sc. and M.Sc. degrees from the University of Tehran, where I specialized in EEG–fMRI integration.<br/><br/>
 
-I currently serve as a <strong>Research Assistant</strong> at the Biomedical Engineering Laboratory at UT, where I contribute to neuroscience research through neuroimaging and signal analysis. In parallel, I work as a <strong>Biomedical Data Scientist and Engineer</strong> at the National Brain Mapping Laboratory (NBML), engaging in projects at the intersection of engineering, neuroscience, and data science. There, I have developed advanced tools for brain signal analysis and had the privilege of mentoring young researchers.<br/>
+I am currently a <strong>Research Assistant</strong> at the Biomedical Engineering Laboratory at the University of Tehran, contributing to research through multimodal neuroimaging and signal analysis. In parallel, I work as a <strong>Biomedical Data Scientist and Engineer</strong> at the National Brain Mapping Laboratory (NBML), where I develop analytical tools for brain data and contribute to interdisciplinary projects.<br/><br/>
 
-<strong>Collaboration</strong> is at the heart of my work. I thrive in team-oriented environments, actively contributing to shared goals, fostering open communication, and exchanging constructive feedback to drive progress. My research goals are brain–computer interfaces, and AI-application in neurosceience. Guided by curiosity and a commitment to improving lives through technology rooted in brain science, I strive to bring together leadership, technical innovation, and interdisciplinary vision to help shape the future of human–machine synergy.
-`,
+My research interests include wearable neurotechnology, brain–computer interfaces, and AI applications in biomedical signals and medical imaging. I focus on developing robust, data-driven methods to better understand brain and body function and to advance human–machine interaction.<br/><br/>
+
+I am always open to research collaborations and interdisciplinary projects. Feel free to get in touch.`,
         },
   ],
   // Optional Footer. Supports plain text or HTML.
