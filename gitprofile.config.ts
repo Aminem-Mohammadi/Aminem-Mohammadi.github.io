@@ -204,7 +204,7 @@ const CONFIG = {
         '',
     },
     {
-      title: 'A Standard Automatic Artifact removal pipeline for Simultaneous EEG-fMRI (SAPHIRE)',
+      title: 'An Automatic Pipeline for Simultaneous EEG-FMRI Artifact-removal (SEFA)',
       conferenceName: 'ICBME, 2025',
       journalName: '',
       authors: 'F. Hossenzadeh, <strong>AM. Mohammadi</strong>, M, Anvarifard, S, Keshavarz, E. Ebrahimzadeh, H. Soltanian-Zadeh,',
